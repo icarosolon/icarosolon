@@ -12,8 +12,8 @@
       <tr>
         <td>Mobile</td>
         <td>
-          <img height="35" width="45" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-          <img height="35" width="45" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+          <img height="35" width="45" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+          <img height="35" width="45" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
           <img height="35" width="45" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
         </td>
       </tr>
@@ -31,7 +31,7 @@
       <tr>
         <td>Back-End</td>
         <td>
-          <img height="35" width="45" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+          <img height="35" width="45" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           <img height="35" width="45" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
           <img height="35" width="45" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           <img height="35" width="45" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -40,7 +40,7 @@
       <tr>
         <td>Database</td>
         <td>
-          <img height="35" width="45" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+          <img height="35" width="45" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           <img height="35" width="45" alt="oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
           <img height="35" width="45" alt="sqlsrv" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
           <img height="35" width="45" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -48,9 +48,18 @@
         </td>
       </tr>
       <tr>
+        <td>Platforms</td>
+        <td>
+          <img height="35" width="45" alt="windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+          <img height="35" width="45" alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+          <img height="35" width="45" alt="fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+          <img height="35" width="45" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+          <img height="35" width="45" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+        </td>
+      </tr>
+      <tr>
         <td>Tools</td>
         <td>
-          <img height="35" width="45" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           <img height="35" width="45" alt="ssh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
           <img height="35" width="45" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           <img height="35" width="45" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -60,7 +69,7 @@
           <img height="35" width="45" alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
           <img height="35" width="45" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
         </td>
-      </tr>      
+      </tr>    
     </tbody>
   </table>
   <div>
