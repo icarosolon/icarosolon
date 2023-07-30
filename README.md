@@ -1,6 +1,6 @@
 ### About me
 :earth_americas: I'm from Brazil, Bahia state. <br />
-:iphone: I really like mobile development. <br />
+:iphone: I really like mobile and web development. <br />
 :computer: I'm studying to become a Mobile and Full Stack Developer! <br />
 :books: I have a degree in Computer Science and a specialist in Software Engineering. <br />
 <!-- :dart: My projects at the moment are related to educational purposes, I want to help students and teachers to achieve a better learning process. <br /> -->
